@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reversi</string>
+    <string name="toast_cant_move_there">&quot;You can't move there!&quot;</string>
+    <string name="toast_not_your_turn">&quot;It's not your turn!&quot;</string>
+    <string name="alert_gameover_title_white_wins">&quot;White wins!&quot;</string>
+    <string name="alert_gameover_title_black_wins">&quot;Black wins!&quot;</string>
+    <string name="alert_gameover_title_tie">&quot;It's a tie!&quot;</string>
+    <string name="alert_gameover_text">&quot;The final score was %1$d to %2$d.&quot;</string>
+    <string name="alert_gameover_newgame">&quot;New Game&quot;</string>
+
+</resources>
