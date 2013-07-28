@@ -24,7 +24,6 @@ July 26, 2013:
 * Published! https://play.google.com/store/apps/details?id=ly.dweek.reversi
 
 IMMEDIATE TODOs:
-* Add Game Over screen that displays score before starting a new game
 * Add 'Resign' button
 * Import audio effects from iOS client
 * Import icons/graphics from iOS client
